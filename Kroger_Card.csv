@@ -1,0 +1,251 @@
+Customer_ID,Annual_Spend,Weekly_Visits,Household_Income,Household_Size,Age,Miles_to_Store,Store_Format,Shopping_Preference,Digital_Coupon_User
+K0001,4681.12,2.89,108086,5,46,1.9,Marketplace,Delivery,Yes
+K0002,3452.27,2.38,159514,1,48,4.8,Marketplace,In-Store,No
+K0003,1828.91,0.74,36549,4,64,2.2,Traditional,In-Store,No
+K0004,3446.22,1.31,52048,3,33,0.9,Marketplace,In-Store,Yes
+K0005,300.0,0.85,31997,1,44,12.7,Traditional,In-Store,No
+K0006,3966.6,3.14,72745,1,34,0.7,Traditional,In-Store,Yes
+K0007,4745.02,2.98,100078,2,32,3.1,Marketplace,Pickup,No
+K0008,3444.21,2.34,83052,2,44,1.2,Traditional,Pickup,Yes
+K0009,4117.22,2.31,51639,1,22,2.2,Fresh Fare,Delivery,Yes
+K0010,300.0,0.32,81184,1,79,3.6,Marketplace,In-Store,No
+K0011,963.34,1.35,150150,2,65,1.5,Marketplace,In-Store,No
+K0012,2116.94,1.76,45713,3,51,0.9,Marketplace,Pickup,No
+K0013,1917.16,1.58,71942,2,40,5.9,Traditional,Pickup,Yes
+K0014,1384.53,1.13,57014,4,44,2.3,Traditional,Pickup,Yes
+K0015,1930.82,1.59,43068,4,32,2.1,Traditional,In-Store,Yes
+K0016,4039.45,3.36,66845,1,36,2.4,Traditional,In-Store,Yes
+K0017,4036.96,3.18,59962,3,52,10.5,Marketplace,Delivery,Yes
+K0018,2392.56,1.34,40747,3,43,8.3,Traditional,Delivery,Yes
+K0019,5000.01,3.03,89630,3,18,4.6,Traditional,Pickup,Yes
+K0020,4915.99,2.62,66843,3,51,2.2,Traditional,Pickup,Yes
+K0021,4314.12,3.17,49722,4,66,1.4,Marketplace,Delivery,No
+K0022,2262.99,1.46,20298,2,40,2.0,Fresh Fare,Pickup,Yes
+K0023,5441.0,3.01,85561,1,44,1.9,Traditional,In-Store,Yes
+K0024,3329.02,1.55,43567,3,34,3.1,Traditional,Pickup,Yes
+K0025,4293.53,3.22,50911,2,57,4.1,Traditional,In-Store,No
+K0026,4515.71,2.54,34459,3,18,3.5,Traditional,Pickup,Yes
+K0027,5362.66,1.85,260000,3,43,3.4,Marketplace,In-Store,Yes
+K0028,4541.44,3.34,28084,2,73,3.2,Traditional,In-Store,Yes
+K0029,3939.41,3.13,33135,3,59,5.0,Marketplace,Pickup,Yes
+K0030,4556.39,2.4,70871,4,35,1.8,Traditional,Pickup,Yes
+K0031,4680.9,2.38,80321,5,22,4.5,Fresh Fare,Pickup,No
+K0032,3027.15,2.33,68072,2,44,11.9,Fresh Fare,In-Store,No
+K0033,3786.0,0.96,141947,3,58,3.9,Traditional,In-Store,Yes
+K0034,1826.55,2.1,107140,1,43,1.9,Traditional,Delivery,No
+K0035,6560.48,4.05,87625,4,55,4.6,Marketplace,In-Store,No
+K0036,356.57,1.09,29311,4,34,3.6,Traditional,In-Store,Yes
+K0037,3367.59,2.55,47202,4,52,2.6,Traditional,Pickup,Yes
+K0038,3588.34,2.51,57317,3,18,4.2,Marketplace,In-Store,Yes
+K0039,1373.78,0.73,136304,2,49,9.6,Fresh Fare,In-Store,Yes
+K0040,5406.71,2.8,106519,1,42,1.2,Fresh Fare,In-Store,Yes
+K0041,4236.25,3.24,99981,1,34,8.7,Marketplace,In-Store,Yes
+K0042,2115.38,1.89,60842,3,69,2.5,Traditional,In-Store,No
+K0043,3634.44,2.34,55547,4,37,2.0,Traditional,Pickup,Yes
+K0044,553.25,0.95,49572,2,79,6.7,Traditional,Pickup,Yes
+K0045,2357.33,0.66,194418,1,38,3.7,Marketplace,Pickup,No
+K0046,2466.75,1.91,42268,2,44,2.0,Marketplace,Pickup,Yes
+K0047,3268.33,2.68,103507,4,40,0.8,Fresh Fare,Pickup,No
+K0048,3525.37,2.43,146161,2,64,1.2,Fresh Fare,In-Store,No
+K0049,2801.42,1.52,51953,1,62,2.8,Traditional,In-Store,No
+K0050,3857.7,2.44,68173,3,28,4.8,Traditional,Delivery,No
+K0051,4941.05,2.02,64031,4,39,0.4,Fresh Fare,Delivery,No
+K0052,504.27,1.18,87618,2,48,6.5,Traditional,Delivery,No
+K0053,1657.68,2.29,89111,2,50,4.9,Fresh Fare,Pickup,Yes
+K0054,2221.57,1.57,55331,3,43,4.1,Marketplace,Delivery,Yes
+K0055,5666.81,2.59,58947,4,40,3.7,Marketplace,In-Store,No
+K0056,2862.46,1.24,70283,6,75,10.0,Marketplace,In-Store,No
+K0057,1708.24,0.98,117293,4,45,1.1,Marketplace,In-Store,Yes
+K0058,3368.03,1.47,49778,5,52,3.7,Marketplace,Pickup,No
+K0059,2147.16,2.28,41810,1,45,4.6,Traditional,Pickup,Yes
+K0060,5194.37,3.22,160898,4,52,5.2,Marketplace,Delivery,Yes
+K0061,734.96,1.49,85816,2,45,1.7,Traditional,In-Store,Yes
+K0062,1468.6,0.75,63119,2,52,2.7,Marketplace,In-Store,Yes
+K0063,3397.27,1.51,108386,2,32,2.4,Fresh Fare,Pickup,No
+K0064,1040.88,0.49,99774,4,44,1.6,Traditional,In-Store,Yes
+K0065,2820.33,1.26,73194,2,30,5.1,Traditional,Delivery,No
+K0066,3973.47,2.27,81738,4,37,6.6,Traditional,Pickup,Yes
+K0067,2098.15,1.32,62531,4,44,2.7,Fresh Fare,Delivery,No
+K0068,1910.12,2.59,49281,1,46,7.8,Marketplace,Delivery,Yes
+K0069,2679.66,1.69,36284,4,59,3.2,Traditional,In-Store,No
+K0070,3111.23,2.21,72951,1,51,3.5,Traditional,In-Store,No
+K0071,2385.47,1.81,27580,1,32,1.3,Traditional,In-Store,No
+K0072,4389.07,3.18,26291,2,50,3.3,Fresh Fare,Delivery,Yes
+K0073,6084.41,2.74,260000,1,19,2.0,Marketplace,Delivery,Yes
+K0074,5809.99,2.85,204042,3,34,4.5,Marketplace,Pickup,Yes
+K0075,2277.17,1.92,51322,1,65,7.0,Marketplace,Delivery,Yes
+K0076,4261.29,2.23,52107,1,45,3.5,Fresh Fare,Pickup,No
+K0077,2501.79,2.39,43966,2,60,2.9,Fresh Fare,Pickup,Yes
+K0078,5254.89,3.23,23169,2,38,5.6,Marketplace,Pickup,Yes
+K0079,4485.39,2.18,68868,3,18,4.8,Marketplace,Delivery,No
+K0080,898.81,2.05,60735,2,55,3.0,Traditional,Pickup,No
+K0081,3120.9,2.37,102544,2,51,12.5,Traditional,Pickup,No
+K0082,3873.29,1.64,55463,3,18,9.9,Marketplace,Delivery,No
+K0083,3122.77,2.07,53028,1,47,2.5,Traditional,In-Store,Yes
+K0084,4526.79,2.88,92142,2,45,5.3,Traditional,Delivery,No
+K0085,3231.96,2.07,59404,3,58,2.4,Marketplace,In-Store,Yes
+K0086,1081.74,2.48,23985,1,54,6.5,Marketplace,Delivery,No
+K0087,2539.66,1.9,83093,3,72,3.9,Traditional,In-Store,Yes
+K0088,3413.2,1.99,123467,2,63,1.3,Traditional,In-Store,No
+K0089,2685.8,0.99,69942,1,34,0.9,Traditional,In-Store,Yes
+K0090,3698.65,1.35,128359,7,43,2.3,Marketplace,Pickup,No
+K0091,5358.39,1.93,179802,1,46,0.5,Fresh Fare,Delivery,Yes
+K0092,5026.9,3.04,128954,2,42,0.6,Marketplace,In-Store,No
+K0093,3670.19,2.14,27937,1,53,1.2,Fresh Fare,In-Store,Yes
+K0094,2854.92,2.18,59036,2,57,7.4,Marketplace,In-Store,No
+K0095,2230.8,1.24,104125,3,59,1.0,Marketplace,In-Store,No
+K0096,2008.44,1.08,77785,4,50,0.8,Traditional,Pickup,No
+K0097,1575.5,1.43,98388,4,46,12.8,Traditional,In-Store,Yes
+K0098,4086.18,2.2,128458,4,58,2.3,Traditional,In-Store,No
+K0099,3227.36,0.92,149268,3,34,3.3,Marketplace,Pickup,No
+K0100,2643.2,2.43,85309,2,47,5.8,Fresh Fare,In-Store,Yes
+K0101,4668.75,1.77,54123,2,18,0.7,Traditional,Pickup,No
+K0102,3333.73,1.79,64978,3,36,5.0,Traditional,Delivery,Yes
+K0103,4118.82,2.04,141381,3,24,4.2,Marketplace,In-Store,Yes
+K0104,3674.28,1.66,131164,5,61,2.1,Fresh Fare,Pickup,Yes
+K0105,1859.65,2.04,74337,2,64,1.4,Traditional,Pickup,Yes
+K0106,3307.48,2.14,90681,4,42,2.7,Fresh Fare,Pickup,Yes
+K0107,2937.62,2.3,26933,3,41,1.0,Marketplace,In-Store,Yes
+K0108,3950.66,2.7,68686,3,44,5.5,Traditional,In-Store,Yes
+K0109,2883.71,1.91,34838,5,65,0.2,Marketplace,In-Store,No
+K0110,2266.36,1.2,28332,3,58,5.6,Marketplace,Delivery,No
+K0111,4833.3,2.07,88492,3,33,1.4,Traditional,Pickup,Yes
+K0112,3398.04,3.02,58614,3,54,2.7,Fresh Fare,Delivery,No
+K0113,3803.31,2.61,51953,3,61,3.5,Traditional,In-Store,Yes
+K0114,2086.41,1.89,94091,1,67,6.5,Fresh Fare,In-Store,No
+K0115,3006.32,1.74,25137,2,45,3.0,Traditional,Pickup,No
+K0116,1685.82,2.19,89855,1,36,8.0,Fresh Fare,In-Store,Yes
+K0117,3435.13,1.84,94042,3,57,0.5,Traditional,In-Store,Yes
+K0118,3667.08,2.62,123287,5,48,2.0,Traditional,In-Store,No
+K0119,2634.13,1.58,109945,1,40,4.7,Marketplace,In-Store,Yes
+K0120,2922.1,2.78,49814,2,53,7.8,Marketplace,In-Store,No
+K0121,1055.58,1.23,30573,3,18,3.5,Traditional,Delivery,Yes
+K0122,2476.52,1.67,73030,3,18,6.6,Traditional,In-Store,Yes
+K0123,2138.26,2.43,44148,2,80,1.9,Traditional,In-Store,Yes
+K0124,3243.54,1.59,52764,3,38,4.3,Fresh Fare,In-Store,Yes
+K0125,404.77,1.02,25716,3,67,5.4,Traditional,In-Store,Yes
+K0126,3737.55,1.84,52138,2,21,1.2,Traditional,Delivery,No
+K0127,4297.46,1.31,95556,2,45,3.7,Fresh Fare,In-Store,Yes
+K0128,2713.16,2.45,122065,3,29,7.1,Marketplace,Pickup,Yes
+K0129,4637.24,2.92,78594,1,18,13.0,Marketplace,Pickup,Yes
+K0130,3858.5,2.37,21095,5,33,1.4,Fresh Fare,In-Store,No
+K0131,2710.1,2.06,35366,4,18,14.4,Traditional,Delivery,Yes
+K0132,2520.61,1.57,59153,2,42,4.7,Fresh Fare,In-Store,No
+K0133,3233.04,3.63,58596,1,44,0.4,Marketplace,In-Store,No
+K0134,4848.17,3.23,85171,4,37,2.7,Marketplace,In-Store,Yes
+K0135,1658.37,1.48,45427,3,71,5.5,Fresh Fare,In-Store,Yes
+K0136,7507.9,2.39,260000,5,31,1.0,Fresh Fare,Pickup,Yes
+K0137,5576.89,3.13,61930,4,19,0.7,Marketplace,Pickup,No
+K0138,3655.74,1.17,118797,4,49,6.0,Fresh Fare,Pickup,No
+K0139,2376.6,2.21,26331,2,38,1.3,Marketplace,Pickup,Yes
+K0140,4855.34,2.41,156048,3,47,4.8,Traditional,In-Store,No
+K0141,1450.58,1.18,52267,4,70,5.0,Traditional,In-Store,Yes
+K0142,1651.49,2.22,71844,3,20,4.4,Traditional,In-Store,Yes
+K0143,1617.39,2.05,18000,2,31,2.7,Traditional,Pickup,Yes
+K0144,6271.4,3.12,112543,4,30,7.9,Marketplace,In-Store,Yes
+K0145,3423.87,2.16,69432,2,58,2.8,Traditional,Pickup,No
+K0146,300.0,0.3,48325,1,69,5.2,Marketplace,Pickup,Yes
+K0147,3961.58,2.09,82818,3,26,3.5,Traditional,In-Store,No
+K0148,2989.79,1.95,139872,4,18,5.1,Fresh Fare,Pickup,Yes
+K0149,2417.92,2.3,169052,2,41,1.7,Traditional,Delivery,Yes
+K0150,3562.38,2.17,146144,1,61,3.5,Marketplace,In-Store,Yes
+K0151,3680.42,0.53,141112,3,25,0.8,Traditional,In-Store,Yes
+K0152,4310.84,1.41,80921,5,35,5.4,Traditional,In-Store,Yes
+K0153,1250.06,1.07,29817,2,70,2.6,Traditional,In-Store,Yes
+K0154,1155.82,1.29,75701,2,60,4.9,Traditional,In-Store,No
+K0155,300.0,0.51,50034,4,75,3.0,Traditional,In-Store,No
+K0156,3115.49,3.73,53411,2,27,8.2,Traditional,Pickup,Yes
+K0157,4416.1,1.94,82847,2,60,8.0,Marketplace,In-Store,Yes
+K0158,4417.29,2.56,78850,2,32,3.4,Marketplace,In-Store,Yes
+K0159,788.86,0.3,75282,3,43,6.2,Marketplace,Delivery,Yes
+K0160,2214.01,2.15,34175,2,55,6.5,Fresh Fare,In-Store,Yes
+K0161,3301.13,2.31,32531,4,27,4.7,Traditional,Pickup,No
+K0162,6040.97,3.66,88676,3,51,2.6,Traditional,In-Store,Yes
+K0163,2340.55,0.89,54263,5,56,2.7,Marketplace,In-Store,Yes
+K0164,2596.73,3.24,26822,3,59,6.2,Marketplace,In-Store,Yes
+K0165,2198.67,1.58,52121,3,43,11.1,Traditional,Delivery,Yes
+K0166,3398.05,1.55,71591,1,59,2.1,Traditional,In-Store,Yes
+K0167,3435.03,2.12,68338,1,61,1.4,Traditional,In-Store,Yes
+K0168,3599.23,2.26,94781,2,33,1.9,Traditional,Delivery,Yes
+K0169,2101.99,1.65,48465,4,66,4.3,Traditional,In-Store,Yes
+K0170,4624.04,3.99,24375,3,34,3.1,Traditional,Pickup,No
+K0171,2669.37,2.28,32865,3,54,3.8,Traditional,In-Store,No
+K0172,1593.95,1.03,61502,1,41,1.2,Marketplace,Pickup,Yes
+K0173,1839.99,1.32,76462,2,65,1.0,Marketplace,In-Store,No
+K0174,4405.77,2.57,151577,2,61,3.4,Marketplace,Pickup,Yes
+K0175,2120.47,1.84,61770,3,71,9.1,Fresh Fare,In-Store,No
+K0176,4210.92,1.8,102323,3,37,1.7,Traditional,In-Store,Yes
+K0177,4529.9,2.42,31240,2,46,3.8,Traditional,Pickup,Yes
+K0178,2810.99,2.36,199964,2,50,10.7,Traditional,In-Store,Yes
+K0179,3583.52,1.61,83042,4,29,2.7,Traditional,Pickup,Yes
+K0180,1840.37,1.81,56442,2,29,1.5,Traditional,Pickup,Yes
+K0181,2532.6,1.23,55820,2,46,2.4,Traditional,In-Store,Yes
+K0182,4440.39,2.56,149923,1,43,3.3,Fresh Fare,In-Store,Yes
+K0183,1800.36,3.14,65230,2,73,7.5,Marketplace,In-Store,Yes
+K0184,5746.86,3.08,142442,2,34,2.9,Marketplace,Delivery,Yes
+K0185,4166.38,3.52,76337,3,41,4.1,Fresh Fare,Pickup,Yes
+K0186,3747.8,1.77,70392,5,69,3.3,Traditional,In-Store,Yes
+K0187,4027.92,2.3,99745,3,39,2.3,Traditional,In-Store,No
+K0188,6132.15,3.19,36672,2,38,5.1,Traditional,Pickup,Yes
+K0189,2558.84,2.11,36672,5,41,4.5,Traditional,Delivery,No
+K0190,2295.51,2.25,80306,4,65,3.0,Marketplace,Pickup,Yes
+K0191,6966.22,1.46,166928,6,31,5.6,Fresh Fare,Delivery,No
+K0192,3403.76,2.81,47193,2,36,3.4,Traditional,Pickup,Yes
+K0193,4435.71,2.27,160146,3,49,0.8,Traditional,Pickup,Yes
+K0194,2980.41,2.11,260000,2,54,10.3,Fresh Fare,Pickup,Yes
+K0195,2801.88,2.66,182526,2,40,3.7,Marketplace,Pickup,Yes
+K0196,4261.43,1.94,81771,3,38,3.9,Traditional,In-Store,No
+K0197,3992.88,2.66,68738,4,29,2.2,Traditional,In-Store,Yes
+K0198,3093.07,0.72,202025,4,44,2.0,Fresh Fare,Pickup,Yes
+K0199,3714.79,2.6,31400,3,39,2.6,Marketplace,Delivery,Yes
+K0200,3889.29,2.29,83448,3,60,1.1,Traditional,In-Store,No
+K0201,2280.13,2.6,34916,2,64,2.5,Traditional,In-Store,No
+K0202,3687.72,2.23,28780,3,20,5.4,Marketplace,Pickup,Yes
+K0203,3024.74,1.55,191430,5,25,15.7,Fresh Fare,Pickup,Yes
+K0204,2856.57,2.35,105774,3,60,2.0,Traditional,In-Store,Yes
+K0205,3043.36,2.03,70246,3,43,1.4,Traditional,In-Store,Yes
+K0206,2702.18,2.69,54364,2,80,1.9,Marketplace,Pickup,No
+K0207,2362.58,1.42,21687,3,59,4.3,Traditional,Pickup,Yes
+K0208,688.9,1.39,49958,3,38,10.1,Traditional,Delivery,Yes
+K0209,2080.68,2.33,90110,3,56,3.2,Traditional,In-Store,Yes
+K0210,2758.07,2.82,47631,3,54,13.0,Traditional,Pickup,Yes
+K0211,3074.41,3.05,46096,2,49,12.4,Marketplace,In-Store,Yes
+K0212,3739.43,2.14,130446,3,50,2.7,Marketplace,In-Store,Yes
+K0213,2718.34,1.43,214520,1,38,4.2,Marketplace,In-Store,No
+K0214,2324.33,2.23,21910,1,20,6.9,Traditional,In-Store,No
+K0215,4330.01,2.48,79159,3,49,9.1,Fresh Fare,Pickup,Yes
+K0216,3265.15,2.01,64176,3,47,3.0,Marketplace,In-Store,Yes
+K0217,4818.78,2.04,71441,4,82,0.9,Marketplace,In-Store,Yes
+K0218,2568.55,1.89,41399,2,41,9.6,Traditional,Pickup,Yes
+K0219,2329.49,1.37,48876,2,46,7.0,Traditional,Delivery,No
+K0220,3030.56,2.3,111115,2,28,3.4,Marketplace,In-Store,Yes
+K0221,5869.79,2.26,93779,5,31,6.1,Traditional,In-Store,Yes
+K0222,3383.13,1.91,51522,2,41,4.1,Traditional,In-Store,No
+K0223,5507.86,2.06,213404,3,45,2.8,Traditional,In-Store,No
+K0224,4143.76,3.41,90987,2,30,8.4,Traditional,In-Store,No
+K0225,2207.96,1.91,45696,3,21,9.7,Traditional,In-Store,Yes
+K0226,4153.46,2.39,176552,3,27,13.2,Traditional,Delivery,Yes
+K0227,4178.51,1.57,66975,2,18,4.5,Marketplace,Pickup,Yes
+K0228,2609.01,1.45,34122,2,37,2.2,Marketplace,Pickup,Yes
+K0229,1168.17,0.56,78379,3,23,6.3,Marketplace,Pickup,Yes
+K0230,4740.9,2.31,175356,2,30,0.3,Fresh Fare,In-Store,Yes
+K0231,787.97,0.75,75866,2,54,5.2,Marketplace,In-Store,Yes
+K0232,3821.61,1.87,109787,2,61,2.8,Fresh Fare,In-Store,No
+K0233,2083.35,2.86,44379,2,40,2.0,Traditional,In-Store,No
+K0234,4337.39,2.34,112513,2,31,3.4,Marketplace,In-Store,No
+K0235,300.0,0.3,38529,2,67,3.0,Traditional,In-Store,No
+K0236,1609.74,1.42,23559,3,48,6.0,Traditional,Pickup,No
+K0237,2599.27,1.56,36496,6,82,6.8,Fresh Fare,Pickup,Yes
+K0238,1230.67,1.54,64369,2,39,5.9,Fresh Fare,In-Store,No
+K0239,1367.44,1.96,74312,3,73,4.1,Marketplace,Pickup,No
+K0240,1695.8,1.93,33928,5,51,5.1,Marketplace,In-Store,Yes
+K0241,300.0,1.99,46865,3,48,1.3,Traditional,In-Store,No
+K0242,6550.16,2.26,201793,4,18,5.6,Fresh Fare,In-Store,Yes
+K0243,3069.52,1.5,114943,2,36,9.1,Marketplace,Pickup,Yes
+K0244,3732.16,2.33,142768,3,59,2.4,Traditional,In-Store,Yes
+K0245,1289.81,2.37,60037,2,46,3.2,Fresh Fare,In-Store,Yes
+K0246,3221.86,1.88,108698,5,58,2.2,Marketplace,In-Store,Yes
+K0247,2546.01,1.94,31604,1,64,8.1,Marketplace,In-Store,No
+K0248,3746.3,1.91,68374,1,32,7.8,Traditional,Delivery,No
+K0249,4420.89,1.8,43605,4,37,2.5,Traditional,In-Store,Yes
+K0250,3366.77,1.99,60642,1,51,3.6,Marketplace,Delivery,No
